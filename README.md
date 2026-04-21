@@ -12,7 +12,7 @@ I created it to practice CAD modeling and improve my design workflow.
 
 # Files Included
 - Source Fusion file (`.f3d`)
-- STEP export (`.step`)
+- STEP export file (`.step`)
 
 # How they look
 <img width="1167" height="750" alt="Screenshot 2026-04-21 145239" src="https://github.com/user-attachments/assets/91fccec5-bea0-4bd2-ad79-457d74a9c1b5" />
